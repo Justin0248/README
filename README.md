@@ -4,4 +4,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Justin](https://github.com/Yonin408) for the ighthouse Labs Web Development Bootcamp
+This repository contains all of the notes taken by [Justin](https://github.com/Yonin408) for the lighthouse Labs Web Development Bootcamp
